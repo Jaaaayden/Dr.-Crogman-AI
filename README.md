@@ -1,5 +1,5 @@
 # Dr.-Crogman-AI
-I was curious how well GPT could mimic a human's personality. While challenging to get GPT to "take a side" and hold a conversation with multiple people discussing separate topics, I had a lot of fun beta-testing and tweaking the prompt around.
+Pretty simple GPT wrapper but I found it fun to see how well it could mimic a human's personality.
 
 # Usage
 Mention the bot by @ing it to trigger responses. 
